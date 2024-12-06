@@ -1,2 +1,2 @@
-# thoughftul.AI
+# thoughtful.AI
 FDE Technical Screen
